@@ -15,10 +15,8 @@ yuque2md sync
 
 ```json
 {
-  {
   "token": "xxx",
   "namespace": "xxx",
   "targetPath": "mardkown"
-}
 }
 ```
