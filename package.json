@@ -1,0 +1,16 @@
+{
+  "name": "yuque2md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:geekrainy/yuque2md.git",
+  "author": "Rainy <geekrainy@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "yuque2md": "./bin/index.js"
+  },
+  "dependencies": {
+    "@yuque/sdk": "^1.1.1",
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0"
+  }
+}
